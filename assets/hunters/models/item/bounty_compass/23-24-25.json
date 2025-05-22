@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "hunters:item/bounty_compass/23-24-25"
+  }
+}

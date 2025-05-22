@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 42,
+    "description": [
+      {
+        "text": "Echoes",
+        "color": "blue"
+      },
+      {
+        "text": " - Textures Created by ",
+        "color": "gray"
+      },
+      {
+        "text": "Uthimentius",
+        "color": "#ff0000"
+      }
+    ],
+    "supported_formats": [42, 46]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "21_4",
+        "formats": 46
+      }
+    ]
+  }
+}

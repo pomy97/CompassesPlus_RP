@@ -3,11 +3,19 @@
     "pack_format": 42,
     "description": [
       {
-        "text": "Echoes",
-        "color": "blue"
+        "text": "Optional RP for ",
+        "color": "gray"
       },
       {
-        "text": " - Textures Created by ",
+        "text": "Compasses",
+        "color": "white"
+      },
+      {
+        "text": "+",
+        "color": "red"
+      },
+      {
+        "text": "\nPack by ",
         "color": "gray"
       },
       {

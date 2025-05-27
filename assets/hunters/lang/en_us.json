@@ -4,6 +4,7 @@
     "item.hunters.bounty_compass.bound_by": "Bountied by: [%s]",
     "item.hunters.bounty_compass.reward": "Reward:",
     "item.hunters.bounty_compass.tracking_target": "Tracking Target",
+    "item.hunters.bounty_compass.wrong_dimension": "Target is not in your dimension",
     "item.hunters.bounty_compass.target_nearby": "Target [%s] is within 100 blocks",
     "item.hunters.bounty_compass.target_offline": "Offline targets cannot be tracked",
 

@@ -23,14 +23,6 @@
         "color": "#ff0000"
       }
     ],
-    "supported_formats": [42, 46]
-  },
-  "overlays": {
-    "entries": [
-      {
-        "directory": "21_4",
-        "formats": 46
-      }
-    ]
+    "supported_formats": [42, 55]
   }
 }

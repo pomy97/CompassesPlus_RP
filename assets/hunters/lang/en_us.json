@@ -1,8 +1,13 @@
 {
     "item.hunters.bounty_compass": "Bounty Compass",
+    "item.hunters.bounty_compass.description": "Tracks a target when held in %s",
+    "item.hunters.bounty_compass.instruction": "Punch a target to bind the compass to it",
+    "item.hunters.bounty_compass.target_lost": "TARGET LOST",
+    "item.hunters.bounty_compass.target_eliminated": "TARGET ELIMINATED",
     "item.hunters.bounty_compass.target": "Target: [%s]",
     "item.hunters.bounty_compass.bound_by": "Bountied by: [%s]",
     "item.hunters.bounty_compass.reward": "Reward:",
+    
     "item.hunters.bounty_compass.tracking_target": "Tracking Target",
     "item.hunters.bounty_compass.wrong_dimension": "Target is not in your dimension",
     "item.hunters.bounty_compass.target_nearby": "Target [%s] is within 100 blocks",
@@ -12,5 +17,4 @@
     "advancements.nether.charietto.description": "Get rewarded for killing a bountied target",
     "advancements.nether.bind_bounty_compass.title": "Dead or Alive",
     "advancements.nether.bind_bounty_compass.description": "Place a Bounty on a target"
-
 }
